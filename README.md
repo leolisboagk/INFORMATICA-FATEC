@@ -4,3 +4,4 @@ Projetos com formulas em excel usando dados abertos
   https://github.com/leolisboagk/INFORMATICA-FATEC/blob/main/Leonardo%20Lisboa%20GPI.xlsx
 
 -SEGUNDO TRABALHO USANDO DADOS ABERTOS
+https://github.com/leolisboagk/INFORMATICA-FATEC/blob/main/qtdesexamesrealizados.xlsx
