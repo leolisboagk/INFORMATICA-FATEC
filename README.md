@@ -16,9 +16,9 @@ Aqui estão alguns dos meus projetos da FATEC mais recentes:
 
 - TRABALHO USANDO "SOMASES: (https://github.com/leolisboagk/INFORMATICA-FATEC/blob/main/Leonardo%20Lisboa%20GPI.xlsx)
 - TRABALHO USANDO DADOS ABERTOS: (https://github.com/leolisboagk/INFORMATICA-FATEC/blob/main/qtdesexamesrealizados.xlsx)
-- [Nome do projeto 3](link): Breve descrição do projeto.
+- INDÚSTRIA 4.0: (https://github.com/leolisboagk/leolisboagk/blob/main/Leonardo%20Lisboa%20-%20GPI.pptx)
+- ESTRATÉGIA DE OPERAÇÕES: (https://github.com/leolisboagk/leolisboagk/blob/main/Leonardo%20Lisboa%20-%20GPI.doc)
 
-Explore mais no [meu repositório](link para os repositórios).
 
 ---
 
@@ -30,4 +30,3 @@ Explore mais no [meu repositório](link para os repositórios).
 - SAP
 - FERRAMENTAS DE GESTÃO ORGANIZACIONAL
 - LEAN MANUFACTURING
-  
